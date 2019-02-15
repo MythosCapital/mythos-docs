@@ -1,1 +1,97 @@
-site_name: My Docs
+# Project information
+site_name: Mythos Docs
+site_description: Mythos Validator Documents
+site_author: Mythos
+site_url: https://docs.mythos.services
+
+# Copyright
+copyright: 'Copyright &copy; 2019 Mythos Capital, LLC'
+
+# Configuration
+theme:
+  name: null
+  theme_dir: 'mkdocs-material/material'
+  custom_dir: 'mkdocs-material/material'
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: null
+    accent: null
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: 'assets/images/faviconm.png'
+  logo: 'images/Mythos_Logo_Icon_White_Web.png'
+
+# Customization
+extra:
+  social:
+    - type: globe
+      link: https://mythos.services
+    - type: twitter
+      link: https://twitter.com/mythoscapital
+ 
+
+# Extensions
+markdown_extensions:
+  - meta
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - Introduction: index.md
+  - Standards: mythos-standards.md
+  - Loom Staking: 
+    - 'LOOM Overview': 'loom.md'
+    - 'How to Stake LOOM': 'loom/loom-how.md'
+    - 'FAQ for LOOM': 'loom/loom-faq.md'
+  - Cosmos Staking:
+    - 'Cosmos Overview': 'cosmos.md'
+    - 'How to Stake ATOMs': 'cosmos/cosmos-how.md'
+    - 'FAQ for COSMOS': 'loom/loom-faq.md'
+
+    
+    
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
+
