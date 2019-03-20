@@ -19,21 +19,21 @@ Unlike un-bonding, re-delegating is instant.
 You can re-delegate from one validator to another by running a command similar to this:
 
 ```
-$ gaiacli tx staking redelegate <src-validator-addr> <dst-validator-addr> <amountToBond>uatom --from <delegatorKeyName>
+$ gaiacli tx staking redelegate <src-validator-addr> <dst-validator-addr> <amountToBond> --from <delegatorKeyName>
 ```
 
 Where ``<src-validator-addr>`` is  validator address you're currently delegated to.
 
 Where ``<dst-validator-addr>`` is the destination validator you'd like to delegate to.
 
-Where ``<amountToBond>`` specifies the number of uAtoms you want to switch. 
+Where ``<amountToBond>`` specifies the number of uAtoms you want to switch.
 
 Where ``<delegatorKeyName>`` is the key name you specified when you imported your Ledger keys.
 
 
 ## Re-Delegating to Mythos Example
 
-For example, to move 100,000 already staked ATOMs from Polychain Labs to Mythos with a delegator keyname of ``MainCosmosAccount`` and with a 1uAtom gas fee you'd run this command: 
+For example, to move 100,000 already staked ATOMs from Polychain Labs to Mythos with a delegator keyname of ``MainCosmosAccount`` and with a 1uAtom gas fee you'd run this command:
 
 ```
 $ gaiacli tx staking redelegate cosmosvaloper16m93gjfqvnjajzrfyszml8qm92a0w67nwxrca7 cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f 100000000000 --from MainCosmosAccount --gas auto --gas-prices 1.0uatom --chain-id cosmoshub-1
