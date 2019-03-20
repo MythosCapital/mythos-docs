@@ -135,7 +135,7 @@ $ gaiacli tx staking delegate <validatorAddress> <amountToBond>uatom --from <del
 For example, to delegate 100,000 ATOMs to Mythos at a 1uAtom gas fee you'd run:
 
 ```
-$ gaiacli tx staking delegate cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f 100000000000uatom --from MainCosmosAccount --gas auto --gas-prices 1uatom --chain-id cosmoshub-1
+$ gaiacli tx staking delegate cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f 100000000000uatom --from MainCosmosAccount --gas auto --gas-prices 1.0uatom --chain-id cosmoshub-1
 ```
 
 Congrats! If you've successfully run this command you are now staking with Mythos.

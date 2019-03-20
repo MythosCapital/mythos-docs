@@ -36,7 +36,7 @@ Where ``<delegatorKeyName>`` is the key name you specified when you imported you
 For example, to move 100,000 already staked ATOMs from Polychain Labs to Mythos with a delegator keyname of ``MainCosmosAccount`` and with a 1uAtom gas fee you'd run this command: 
 
 ```
-$ gaiacli tx staking redelegate cosmosvaloper16m93gjfqvnjajzrfyszml8qm92a0w67nwxrca7 cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f 100000000000uatom --from MainCosmosAccount --gas auto --gas-prices 1uatom --chain-id cosmoshub-1
+$ gaiacli tx staking redelegate cosmosvaloper16m93gjfqvnjajzrfyszml8qm92a0w67nwxrca7 cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f 100000000000 --from MainCosmosAccount --gas auto --gas-prices 1.0uatom --chain-id cosmoshub-1
 ```
 
 
