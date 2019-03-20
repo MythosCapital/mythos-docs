@@ -1,10 +1,10 @@
 # Mythos Standards
 
-Mythos is an enterprise-grade professional staking service provider targeted toward those who need the highest standards of excellence. Our secure and professionally managed validators will protect your assets from slashing and optimize your returns. 
+Mythos is an enterprise-grade, professional staking service provider targeted toward large stakers and those those who need the highest standards of excellence. Our secure and professionally managed validators will protect your assets from slashing and optimize your returns. 
 
-## All Mythos validators include the by the following:
+## All Mythos validators include the following:
 
-* 99.982% uptime datacenters (Tier 3)
+* 99.982% uptime commitment
 * Hardware key management via hardware security module
 * Sentry-node configuration for DDoS Prevention
 * Tier 1 certified physical datacenter
@@ -14,11 +14,11 @@ Mythos is an enterprise-grade professional staking service provider targeted tow
 * Third-party Audited Security
 * Data center
 
-Mythos uses Equinix data centers with locations in Washington DC. Equinix provides us the highest levels of physical security and reliability and is trusted by the world's most secure government agencies and fintech companies.
+Mythos uses Equinix data centers. Equinix provides us the highest levels of physical security and reliability and is trusted by the world's most secure government agencies and fintech companies.
 
 ### Third-party Audited Security
 
-Our validator is in the process of undergoing a third-party security audit to the CryptoCurrency Security Standard and we expect to achieve full compliance as a Level 1 system. Additionally, our physical location is SSAE16 SOC-1 Type II, SOC-2 Type II, PCI-DSS and ISO 27001.
+Our validator will undergo a third-party security audit to the CryptoCurrency Security Standard and we expect to achieve full compliance as a Level 1 system. Additionally, our physical location is SSAE16 SOC-1 Type II, SOC-2 Type II, PCI-DSS and ISO 27001.
 
 ### Big Fish 24/7 Support
 Mythos support agents are always available to assist with support issues, answer questions, and to help delegate to the Mythos validator. Contact support on a 24/7 basis here.

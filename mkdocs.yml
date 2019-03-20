@@ -86,7 +86,9 @@ nav:
   - Cosmos Staking:
     - 'Cosmos Overview': 'cosmos.md'
     - 'How to Stake ATOMs': 'cosmos/cosmos-how.md'
-    - 'FAQ for COSMOS': 'loom/loom-faq.md'
+    - 'How to Switch to Mythos': 'cosmos/cosmos-switch.md'
+    - 'FAQ for Cosmos': 'cosmos/cosmos-faq.md'
+  
 
     
     

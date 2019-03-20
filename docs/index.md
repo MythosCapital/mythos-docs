@@ -11,7 +11,7 @@ Mythos is active on the following networks:
 | Network | Staking Asset | Description | Status | How to Stake |
 | ------------ | ------------- | ------------ | ------------ | ------------ |
 | [LOOM](https://loomx.io/) | [LOOM](https://messari.io/asset/loom-network)  | Sidechain network for Ethereum | Live | [Loom Guide](/loom/)  |
-| [Cosmos](https://cosmos.network/) | [ATOM](https://messari.io/asset/cosmos)  | Ecosystem of connected blockchains | Testnet | [Cosmos Guide](/cosmos/) |
+| [Cosmos](https://cosmos.network/) | [ATOM](https://messari.io/asset/cosmos)  | Ecosystem of connected blockchains | Live | [Cosmos Guide](/cosmos/) |
 
 Mythos is planning to support the following networks:
 

@@ -8,6 +8,13 @@ LOOM is a sidechain network for Ethereum. LOOM tokens can be delegated on the Pl
 | ------------ | ------------- | :------------: | :------------: | :------------: |
 | [LOOM](https://messari.io/asset/loom-network) | 3.75-15% annualized | every 2 weeks | 25% | None |
 
+Mythos LOOM validator: 
+
+| Staking Address  | Status | Staking |
+| :------------ | :------------: | :------------: |
+| 0x7bc38ff819b75f85275d2fd83080ec337b4e0afe | [View](https://dashboard.dappchains.com/validators) | [Stake Now](loom-how/) |18C78D135C9D81D74F6234DBD268C47F0F89E844) |
+
+
 
 ## Staking Returns
 
@@ -31,8 +38,9 @@ Say you delegate 1,000,000 LOOM to Mythos with a Locktime period of 6 months and
 Likewise, for a 12 month delegation of 1,000,000 LOOM to Mythos you would receive 15% or 150,000 LOOM. This amount would be paid out every 2 weeks in proportianl increments for the duration of the 12 month delegation locktime.
 
 
-## What's Next
+---
+[How to stake LOOM](loom-how/)
 
-* LOOM Tokens
+---
 
 <br/><br/>

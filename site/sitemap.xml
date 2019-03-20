@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://docs.mythos.services/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://docs.mythos.services/mythos-standards/</loc>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.mythos.services/loom/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.mythos.services/loom/loom-how/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.mythos.services/loom/loom-faq/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.mythos.services/cosmos/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://docs.mythos.services/cosmos/cosmos-how/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://docs.mythos.services/loom/loom-faq/</loc>
-     <lastmod>2019-02-15</lastmod>
+     <loc>https://docs.mythos.services/cosmos/cosmos-switch/</loc>
+     <lastmod>2019-03-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://docs.mythos.services/cosmos/cosmos-faq/</loc>
+     <lastmod>2019-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -1,37 +1,43 @@
-# How to Stake LOOM with Mythos
+# Frequently asked Questions on LOOM
 
-At a high-level you stake LOOM with Mythos using the LOOM provided DappChain web interface. To stake, all you need are some LOOM tokens in a supported Ethereum wallet that contains both the LOOM tokens and also a bit of ETH to pay for a few Ethereum transactions.
+See the official [LOOM staking FAQ](https://dashboard.dappchains.com/faq). Mythos specific questions will be posted below in the future.
 
-## Requirements for Staking
-* LOOM Tokens
-* An Ethereum wallet <br/> ([MetaMask](https://metamask.io/) supported now with [Ledger](https://www.ledger.com/) support soon)
-* A bit of ETH in your wallet to pay for transactions
+## 1. Does Mythos take custody of my LOOM during delgation?
 
+No, Mythos does not take custody of your LOOM tokens through the delegation process. You maintain access to your private keys through your designated Ethereum wallet.
 
-##  How do you stake with Mythos?
+## 2. How do I stake with Mythos?
 
+See our LOOM staking guide [here](../loom-how).
 
-1. Create an account on the PlasmaChain Dashboard<br>
-(Remember to save your 12-word seed phrase somewhere safe)
+## 3. What are Mythos fees for delegation?
 
+Our fees are subject to change but can always be found [here](../).
 
-2. Ensure your LOOM is deposited into the MetaMask wallet with enough ETH for gas<br>
-(Ledger support will be available soon)
+## 4. How often can I withdraw my rewards?
 
+Rewards are provided every 2 weeks. Stakers can withdrawl rewards on the [Rewards](https://dashboard.dappchains.com/rewards) section of dappchain interface at the time they are provided.
 
-3. Navigate to the Accounts section on the PlasmaChain Dashboard & map your MetaMask wallet address to the PlasmaChain
+## 5. Does locktime lock me into a validator?
 
+A Locktime locks a LOOM staker into a specific staking time period, but does not lock a staker into a specific validator. You will be able to change validators during your locktime.
 
-4. Deposit LOOM tokens to the PlasmaChain<br>
-(This may take multiple transaction confirmations)
+## 6. Can I withdraw my LOOM during my Locktime?
 
+No. A locktime locks your LOOM into a locked state for the duration of the lockup period you select. You can change validators during your locktime, but you cannot withdraw your LOOM prematurely.
 
-5. Confirm the DappChain amount reflects the amount Deposited
+## 7. Can I map my Plasmachain account to multiple Metamask or Ledger Ethereum addresses?
 
+Not at this time. Currenly, every Metamask account or Ledger address can only be mapped to one Plasmachain account. Future updates may allow multi-mapping configurations.
 
-6. Navigate to the list of LOOM Validators and select “Mythos”
+## 8. Which wallets can I stake from?
 
+Currently, Metamask or Ledger.
 
-7. Enter the amount to Delegate, select your Locktime / Bonus and click “Delegate”
+## Need Additional Help?
 
+If you need help, one of our agents will be happy to assist you, just [contact us](https://mythos.services/contact/).
 
+Alternatively, contact LOOM support via [support@loomx.io](mailto:support@loomx.io) or [LOOM telegram](https://t.me/loomnetwork).
+
+<br/> <br/>
